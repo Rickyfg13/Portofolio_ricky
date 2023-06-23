@@ -533,23 +533,55 @@ img {
     background-color: var(--first-color);
 }
 
+/* Frontend And Framework */
+
 .skills__html {
+    width: 100%;
+}
+
+.skills__nextJs {
+    width: 80%;
+}
+
+.skills__reactJs {
     width: 80%;
 }
 
 .skills__css{
-    width: 70%;
+    width: 80%;
 }
 
 .skills__js{
-    width: 30%;
+    width: 80%;
 }
 
+/* Backend And Frammework */
 .skills__laravel{
 width: 80%;
 }
+
+.skills__nodeJs{
+width: 70%;
+}
+
+.skills__expressJs{
+width: 85%;
+}
+
+.skills__nestJs{
+width: 90%;
+}
+
+/* Databases */
 .skills__mysql{
-width: 80%;
+    width: 100%;
+}
+
+.skills__postgresql{
+    width: 100%;
+}
+.skills__mongoDB{
+    width: 75%;
 }
 
 
